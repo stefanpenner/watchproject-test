@@ -1,3 +1,13 @@
+
+quickly setup linked sane, (it assumes the master version of sane is already NPM linked) 
+```
+./setup.sh
+```
+
+
+------
+
+
 # Watchproject-test
 
 This README outlines the details of collaborating on this Ember application.
